@@ -6,11 +6,9 @@ Currently, I am honing my abilities in LeetCode and looking at some personal pro
 
 <sub>I use arch, btw.</sub>
 
-<div align="center" style="display: flex; justify-content: center;">
-  <div style="height: 22vh; display: flex;">
+<div align="center" style="height: 22vh;">
     <img src="https://github-readme-stats.vercel.app/api?username=MatheusOde&show_icons=true&theme=merko" style="height: 100%; width: auto; margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOde&layout=compact&theme=vision-friendly-dark" style="height: 100%; width: auto;">
-  </div>
 </div>
 
 ### Connect with me
