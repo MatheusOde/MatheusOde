@@ -9,6 +9,7 @@ Currently, I am honing my abilities in LeetCode and looking at some personal pro
     <img src="https://github-readme-stats.vercel.app/api?username=MatheusOde&show_icons=true&theme=merko" style="height: 10vw"></img>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOde&layout=compact&theme=vision-friendly-dark" style="height: 10vw"></img>
 </div>
+
 ### Connect with me
 
 You can find my current professional profiles and contact detail on LinkedIn, send me an e-mail or message me on telegram for professional inquires.
