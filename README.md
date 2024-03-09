@@ -12,7 +12,8 @@ I'm a software engineer in Brazil. I worked mainly with Java and research for im
 
 ### Connect with me
 
-You can find my current professional profiles and contact detail on LinkedIn, send me an e-mail or message me on telegram for professional inquires.
+You can find my current information and contact on LinkedIn, send me an e-mail or message me on telegram for professional inquires.
+
 <div align="center">
     <a href="https://www.linkedin.com/in/matheus-odebrecht/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -27,8 +28,6 @@ You can find my current professional profiles and contact detail on LinkedIn, se
 
 ### Just wanna talk?
 
-These are my most used social media platforms, let's talk there!
-
 <div align="center">
     <a href="https://www.instagram.com/_matheusode/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -41,12 +40,10 @@ These are my most used social media platforms, let's talk there!
 ### Skillset
 <div align="center">
 
-| Sophisticated problem solving | Research | Report and Presentation |
+| Complex Problem Solving | Research | Report and Presentation |
 |:--------------:|:--------------:|:--------------:|
 
 </div>
-
-Software engineer that loves cars and its systems, as well as solving hard problems in projects. I have worked with software that exceeds 200mb of lines of code. Thus, I am experient with pipelining, teamwork and CI/CD.
 
 ### Technologies and Frameworks
 
