@@ -2,13 +2,12 @@
 
 I'm a software engineer in Brazil. I worked mainly with Java and research for implementing state-of-the-art algorithms in simulation software.
 
-<sub>I use arch, btw.</sub>
-
 <div align="center" style="height: 21vh;">
     <img src="https://github-readme-stats.vercel.app/api?username=MatheusOde&show_icons=true&theme=dracula" style="height: 21vh">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOde&layout=compact&theme=dracula" style="height: 21vh">
 </div>
 
+<sub>I use arch, btw.</sub>
 
 ### Connect with me
 
