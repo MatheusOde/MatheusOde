@@ -1,4 +1,4 @@
-# Hi, I'm Matheus👋
+## Hi, I'm Matheus👋
 
 I'm a software engineer in Brazil. I worked mainly with Java and research for implementing state-of-the-art algorithms in simulation software.
 
@@ -37,8 +37,6 @@ You can find my current information and contact on LinkedIn, send me an e-mail o
 </div>
 
 ### Technologies and Frameworks
-
-Some of my "go to" are these:
 
 <div align="center">
         <img src="https://img.shields.io/badge/VueJS-77a50e?style=for-the-badge&logo=vue.js&logoColor=white" alt="VueJS"/>
