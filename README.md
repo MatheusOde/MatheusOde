@@ -1,8 +1,6 @@
 # Hi, I'm Matheus👋
 
-I'm a software engineer in Brazil. I worker mainly with Java and research for implementing state-of-the-art algorithms in simulation software. I also know a lot about containerization, and web development. 
-
-Currently, I am honing my abilities in LeetCode and looking at some personal projects. I have my own website as well, which is undergoing some changes!
+I'm a software engineer in Brazil. I worked mainly with Java and research for implementing state-of-the-art algorithms in simulation software.
 
 <sub>I use arch, btw.</sub>
 
