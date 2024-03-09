@@ -36,14 +36,6 @@ You can find my current information and contact on LinkedIn, send me an e-mail o
     </a>
 </div>
 
-### Skillset
-<div align="center">
-
-| Complex Problem Solving | Research | Report and Presentation |
-|:--------------:|:--------------:|:--------------:|
-
-</div>
-
 ### Technologies and Frameworks
 
 Some of my "go to" are these:
